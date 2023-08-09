@@ -1,0 +1,12 @@
+{
+"keys": [
+{
+"kid": "test-oidc-cred",
+"kty": "RSA",
+"alg": "RS256",
+"use": "sig",
+"n": "AIStE0WW3psoCRAje3fA1IgINa5GTfc57O--13ZfQTOBiFDTz3iPKRTyl9cbGpttFjepTeQ5VYGDUtN1H9pFI3W5kElIBA81UX0jVBgG7Rc14B6dNB4pR_Za6JFXaNDbaaKBL-89OmhDUQUB41hCcKW4EROfbTMWwIpQ5BNfNEwPb1BBlEMCMmpjfBbI_HEFl_dwucpStZUNY2At4ROMxVFbhiR5Puej0851GOuowimu5nwOc1nb6H5zjh6zQNPS7DMZ2ZYrIdkKT_u9cXp4EJnJb_tDd0zL74dXLZYyDBA3bSDte4x3FwxgJecpKJi0xeXh3R3nCZ4q5CrvcBinzn8",
+"e": "AQAB"
+}
+]
+}
